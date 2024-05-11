@@ -17,7 +17,7 @@
 
 <br>
 
-[1]: https://www.linkedin.com/in/ikram-rasheed/
+[1]: https://www.linkedin.com/in/ikramrasheed/
 [2]: https://www.facebook.com/Ikrraamrasheed/
 [3]: https://www.instagram.com/ikram__rasheed/
 
