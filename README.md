@@ -67,7 +67,5 @@ Daily Joke :smile_cat:
 ---
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
 
-Playing Now :headphones:
----
 
-[![:headphones:Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=31kz36z6ugaobdwa3in34wvfjife&cover_image=true&theme=default&bar_color=416840&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kz36z6ugaobdwa3in34wvfjife&redirect=true)
+
