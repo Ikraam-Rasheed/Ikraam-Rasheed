@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Software+Engineer;~3+years+of+Professional+Experience;Passionate+About+Web+Dev+and+DevOps;Always+Learning+New+Tech+Stuff&font=Fira%20Code&center=true&width=500&height=45&color=7232f2&vCenter=true&size=22"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Software+Engineer;~4+years+of+Professional+Experience;Passionate+About+Web+Dev+and+DevOps;Always+Learning+New+Tech+Stuff&font=Fira%20Code&center=true&width=500&height=45&color=7232f2&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
