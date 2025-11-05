@@ -8,11 +8,10 @@
 </p>
 
 <p align="center">
-- 🔭 Currently working as a Software Engineer<br>
-- 🌱 Using JavaScript and AWS to implement Cloud-driven Solutions<br>
-- 🤔 Learning Cloud Native Tech and DevOps<br>
+- 🔭 Currently working as a Senior Software Engineer<br>
+- 🌱 Using JavaScript, Python, AI, and AWS to implement Cloud-driven Solutions<br>
 - 👯 Looking to collaborate on Open Source Social Projects<br>
-- 💬 Ask me about Backend and Cloud<br>
+- 💬 Ask me about Backend, AI, and Cloud<br>
 </p>
 
 <br>
