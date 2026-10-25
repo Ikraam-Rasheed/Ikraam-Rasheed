@@ -22,6 +22,7 @@
 [1]: https://www.linkedin.com/in/ikramrasheed/
 [2]: https://www.facebook.com/Ikrraamrasheed/
 [3]: https://www.instagram.com/ikram__rasheed/
+[4]: https://ikramrasheed.com
 
 Tech Stack :man_technologist:
 ---
@@ -50,7 +51,7 @@ Connect With Me :handshake:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][2]
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][3]
-![Website](https://img.shields.io/badge/ikramrasheed.com-000000?style=for-the-badge&logo=safari&logoColor=white)
+[![Website](https://img.shields.io/badge/ikramrasheed.com-000000?style=for-the-badge&logo=safari&logoColor=white)][4]
 ---
 <br>
 
